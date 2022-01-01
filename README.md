@@ -6,10 +6,9 @@
 - Move it to your `resources` folder
 - Add this in your `server.cfg` :
 
-````
+```
 ensure esx_micdisplay
-``` dix-micro
-````
+```
 
 - If you want to `change` the microhpone image displayed:
   - Go to `img` folder and change `mic.png` to your liking
