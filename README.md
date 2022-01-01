@@ -10,6 +10,6 @@
 ensure esx_micdisplay
 ```
 
-- If you want to `change` the microhpone image displayed:
+- If you want to `change` the microphone image displayed:
   - Go to `img` folder and change `mic.png` to your liking
 - Enjoy!
